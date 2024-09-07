@@ -22,6 +22,8 @@
 
 ## Описание рабочих файлов:
 
+Папка migrations. 
+
 shipping_migration.sql - SQL-запросы на создание и заполнение следующих таблиц: shipping_status, shipping_info, shipping_country_rates, shipping_agreement, shipping_transfer.
 
 shipping_datamart.sql - SQL-запрос на создание представления shipping_datamart.
