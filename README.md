@@ -38,8 +38,7 @@
 
 ## [5. Аналитические базы данных](https://github.com/DmitryMaslov92/educational_projects_data_engineer/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-Проект по исследованию рынка игр и игровых платформ, выявлению закономерностей, определяющих успешность игры.
-Финальный проект первого модуля.
+Проектная работа по аналитическим базам данных.
 
 
 ## [6. Организация Data Lake](https://github.com/DmitryMaslov92/educational_projects_data_engineer/tree/main/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20Data%20Lake)
